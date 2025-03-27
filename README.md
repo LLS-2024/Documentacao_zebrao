@@ -1,9 +1,9 @@
 # Zebrão Sorveteria
-*(
+
+
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 *(Coloque aqui uma breve descrição do seu projeto.)*
 
-**IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
@@ -11,7 +11,7 @@ Equipe:
 - [Leila](github.com/aluno1)
 - [Luiza](https://github.com/Luizaescarban)
 - [Sarah](https://github.com/SarahLJesus)
-
+<!-- *( --
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
@@ -518,6 +518,8 @@ Notação:
 **Notação:**
 
 ![Relacionamento de generalização/especialização de atores - notação](img/dcu_relacionamento_de_generalizacao_especializacao_notacao_de_atores.png "Relacionamento de generalização/especialização de atores - notação")
+￼
+
 
 **Exemplo: Loja de CDs**
 
@@ -543,6 +545,8 @@ Notação:
 **Identificando os relacionamentos de generalização/especialização de casos de uso**
 
 **Novos requisitos:**
+
+￼
 
 - As vendas podem ser **à vista** ou **a prazo**. Em ambos os casos o estoque é
 atualizado e uma nota fiscal, entregue ao consumidor.
@@ -601,6 +605,8 @@ comum a dois ou mais casos de uso.
 **Novos requisitos:**
 Para efetuar vendas ou administrar estoque, atendentes e gerentes terão que **validar** suas respectivas senhas de
 acesso ao sistema.
+￼
+
 
 ![Identificando os relacionamentos de dependência (inclusão)](img/dcu_identificando_relacionamentos_de_dependencia_inclusao.png "Identificando os relacionamentos de dependência (inclusão)")
 
