@@ -8,14 +8,13 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Leila](github.com/aluno1)
-- [Luiza](https://github.com/Luizaescarban)
-- [Sarah](https://github.com/SarahLJesus)
-<!-- *( --
+- [Leila da Silva Souza](github.com/aluno1)
+- [Luiza Escarban da Silva](https://github.com/Luizaescarban)
+- [Sarah Letícia de Jesus](https://github.com/SarahLJesus)
+
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
+-   [Documentação (esse documento)](https://github.com/LLS-2024/zebrao)
+<!-- *( ---   Backend: [Repositório](github.com/marcoandre/pi-backend) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](github.com/marcoandre/pi-frontend) e [Publicação](https://pi-frontend.herokuapp.com/)
 
 **Como usar esse modelo para o Projeto Integrador**
