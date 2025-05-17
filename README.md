@@ -89,11 +89,17 @@ RN008: A tabela Produto_venda deve conter a quantidade de produtos vendidos, al√
 # 5. Requisitos funcionais
 
 RF001: O sistema deve manter Pessoa.
+
 RF002: O sistema deve manter Carrinho.
+
 RF003: O sistema deve manter Pagamento.
+
 RF004: O sistema deve manter Produtos.
+
 RF005: O sistema deve manter Categoria.
+
 RF006: O sistema deve manter Venda.
+
 RF008: O sistema deve manter Produto_venda.
 
 
