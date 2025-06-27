@@ -66,7 +66,7 @@ Além disso, tanto os funcionários terão acesso para cadastrar produtos, quant
 
 # 4. Modelagem de Dados
 
-![MER Workbench](imgs/Captura%20de%20tela%20de%202025-05-08%2011-04-14.png "Diagrama de Caso de Uso")
+![MER Workbench](/imgs/bancodedados.png "Diagrama de Caso de Uso")
 
 
 # 4. Regras de negócio
