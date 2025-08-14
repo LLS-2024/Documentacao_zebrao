@@ -17,7 +17,7 @@ Equipe:
 
 Links do projeto:
 - [Documentação (esse documento)](https://github.com/LLS-2024/Documentacao_zebrao)
-- Backend: [Repositório](https://github.com/LLS-2024/Backend_zebrao) e [Publicação](https://pi-backend.herokuapp.com/)
+- Backend: [Repositório](https://github.com/LLS-2024/Backend_zebrao) e [Publicação](https://backend-zebrao.onrender.com)
 - Frontend: [Repositório](https://github.com/LLS-2024/Frontend_zebrao) e [Publicação](https://zebrao-sorveteria.surge.sh/)
 
 
